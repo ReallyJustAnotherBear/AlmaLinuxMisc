@@ -31,10 +31,6 @@ https://bugzilla.redhat.com/show_bug.cgi?id=1872902
 I rebuilt anaconda with anaconda-live and included it in to be picked up the kickstart.
 The iso image is in releases and below:
 
-Shortcut:
-
-https://github.com/kelsieflynn/alma-linux-stuff/releases/download/v20210213.1/almalinux-8.3-live-gnome-unofficial.x86_64.iso
-
 
 To create your own spin version you will need to rebuild anaconda and/or use the rpms I have here and update your kickstart to where you have them before you rebuild.
 
