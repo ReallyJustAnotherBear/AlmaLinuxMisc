@@ -1,4 +1,4 @@
 
-Unofficial alma linux live images
+Unofficial alma linux spings.
 
-Alma has official you should be using, these are just for testing.
+Alma has official you should be using, these are/were here just for testing.
